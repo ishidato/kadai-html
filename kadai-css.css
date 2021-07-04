@@ -10,13 +10,13 @@ header {
 }
 
 #wrapper #main {
-    width: 700px;
+    min-width: 700px;
     background-color: #ccffcc;
     list-style: none;
 }
 
 #wrapper #menu {
-    width: 300px;
+    min-width: 300px;
     background-color: #ccccff;
 }
 
